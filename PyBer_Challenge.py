@@ -601,6 +601,6 @@ lineplot = weekly_bins_df.plot(figsize=(20,6))
 plt.title("Total Fare by City Type", fontsize=20)
 plt.ylabel("Fare ($USD)", fontsize=10)
 plt.xlabel("Month", fontsize=10)
-plt.savefig("analysis/Fig8.png")
+plt.savefig("Analysis/Fig8.png")
 
 
